@@ -1,0 +1,32 @@
+type : login
+username : 
+profilephoto : 
+
+type: logResponse
+result: 1/0
+
+type : broadcast
+username : 
+profilephoto : 
+content : 
+time : 
+
+type : setGroup
+groupname :
+owner: 
+time: 
+
+type : message
+username :
+profilephoto :
+content :
+group :
+time: 
+
+type : dissolveGroup
+groupname :
+username :
+
+type : dissolveGroupResponse
+result :
+reason :
